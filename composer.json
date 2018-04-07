@@ -1,0 +1,5 @@
+{
+  "require": {
+    "fool/echolog": "1.0.*"
+  }
+}
